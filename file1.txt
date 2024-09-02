@@ -1,1 +1,2 @@
 My first days
+today I am learning to use GIT

@@ -1,1 +1,2 @@
-i love git
+i love git, 
+because it can help me to understand frontend
